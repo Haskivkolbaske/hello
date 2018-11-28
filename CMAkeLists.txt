@@ -1,0 +1,1 @@
+addexecutable(test RUN.cpp)
