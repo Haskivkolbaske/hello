@@ -1,1 +1,1 @@
-addexecutable(test RUN.cpp)
+add_executable(test RUN.cpp)
